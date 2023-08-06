@@ -1,7 +1,7 @@
 # Pac-Man
 
 ## Gameplay
-Pac-Man is a timeless arcade game where the player controls the titular character, Pac-Man, as he traverses mazes filled with dots while avoiding colorful ghosts. The goal is to eat all the dots with as little deaths as possible. 
+Pac-Man is a timeless arcade game where the player controls the titular character, Pac-Man, as he traverses mazes filled with dots while avoiding colorful ghosts. Navigate through mazes, eat dots, avoid ghosts, and strive for high scores in this iconic game.
 
 ## Features
 - Classic Pac-Man gameplay experience. 🕹️
