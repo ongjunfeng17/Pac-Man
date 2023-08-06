@@ -1,9 +1,5 @@
 # Pac-Man
 
-Welcome to the classic Pac-Man game! Relive the nostalgia of the arcade era with this faithful recreation of the beloved Pac-Man experience. Navigate through mazes, eat dots, avoid ghosts, and strive for high scores in this iconic game.
-
-![p](https://github.com/ongjunfeng17/Pac-Man/assets/120620166/2eec3ffb-304f-4a20-a2c0-465a00f7b31b)
-
 ## Gameplay
 Pac-Man is a timeless arcade game where the player controls the titular character, Pac-Man, as he traverses mazes filled with dots while avoiding colorful ghosts. The goal is to eat all the dots with as little deaths as possible. 
 
