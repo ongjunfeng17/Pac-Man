@@ -34,9 +34,9 @@ Pac-Man is a timeless arcade game where the player controls the titular characte
   
 ## Features coming in the future
 - Multiple levels with increasing difficulty.
-- Power pellets for temporary ghost vulnerability.
+- Power pellets for temporary ghost vulnerability. 👻
 - Fruit bonuses for additional points. 🍌
-- High score tracking to challenge yourself and others.
+- High score tracking to challenge yourself and others. 🏆
 
 ## Installation
 1. Download and unzip the code 🤐
